@@ -1,6 +1,8 @@
 # PM_Organizaciondeplandeproyecto
 
+
 Dashboard
+
 [![Dashboard.png](https://i.postimg.cc/2SM6cL3z/Dashboard.png)](https://postimg.cc/VJ9m56jT)
 
 Diagrama de Gantt
